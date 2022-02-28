@@ -3,4 +3,4 @@ mysql workbench
 localhost:3306
 
 
-could not install docker-compose.yml
+could not install docker-compose.yml and start.sh
